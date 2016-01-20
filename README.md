@@ -1,4 +1,4 @@
-## Blips iOS Client
+## Blips iOS Client 2013-2015
 
 Collaborators:
 
