@@ -1,0 +1,18 @@
+//
+//  AFBlipAmazonS3Statics.m
+//  Blips
+//
+//  Created by Andrew Apperley on 2014-07-02.
+//  Copyright (c) 2014 AF-Apps. All rights reserved.
+//
+
+#import "AFBlipAmazonS3Statics.h"
+
+NSString* const kAFBlipAWSAccessKey      = @"AKIAIFKCGDPZFYJCDWXQ";
+NSString* const kAFBlipAWSSecretKey      = @"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";
+NSString* const kAFBlipAWSS3Bucket       = @"elasticbeanstalk-us-east-1-799484155427";
+
+NSString* const kAFBlipAWSErrorNoObjectTitleKey     = @"titler";
+NSString* const kAFBlipAWSErrorNoObjectMessageKey   = @"message";
+NSString* const kAFBlipAWSErrorNoObjectTitle        = @"Server Error";
+NSString* const kAFBlipAWSErrorNoObjectMessage      = @"The desired content is unavailable.";

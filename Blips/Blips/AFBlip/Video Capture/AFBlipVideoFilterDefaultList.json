@@ -1,0 +1,45 @@
+
+{
+    "filter_list" : [
+                     {
+                     "filter_class" : "GPUImageFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Original_thumb",
+                     "filter_title" : "Original"
+                     },
+                     {
+                     "filter_class" : "AFBlipTiltShiftFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_TiltShift_thumb",
+                     "filter_title" : "Tilt Shift"
+                     },
+                     {
+                     "filter_class" : "AFBlipVignetteFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Vignette_thumb",
+                     "filter_title" : "Vignette"
+                     },
+                     {
+                     "filter_class" : "AFBlipSaturationFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Desaturation_thumb",
+                     "filter_title" : "Desaturation"
+                     },
+                     {
+                     "filter_class" : "AFBlipToneCurveFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_ToneCurve_thumb",
+                     "filter_title" : "Tone Curve"
+                     },
+                     {
+                     "filter_class" : "AFBlipExposureFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_ExposureShift_thumb",
+                     "filter_title" : "Exposure Shift"
+                     },
+                     {
+                     "filter_class" : "AFBlipElegantFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Elegant_thumb",
+                     "filter_title" : "Elegant"
+                     },
+                     {
+                     "filter_class" : "",
+                     "filter_image" : "AFBlipSignupButton",
+                     "filter_title" : "More Filters"
+                     }
+    ]
+}

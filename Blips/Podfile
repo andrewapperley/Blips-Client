@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+pod "SSKeychain"
+pod "AFNetworking", "~> 2.2"
+pod "AFFAlertView"
+pod "AFAmazonS3Client", :git => "https://github.com/evoL/AFAmazonS3Client", :branch =>"2.2"
+pod "AWSiOSSDKv2"
+pod "AWSCognitoSync"

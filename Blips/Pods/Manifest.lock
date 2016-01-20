@@ -1,0 +1,201 @@
+PODS:
+  - AFAmazonS3Client (2.0.0):
+    - AFNetworking (~> 2.0)
+  - AFFAlertView (0.3.2)
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AWSCognitoSync (1.0.3):
+    - AWSCognitoSync/CognitoSync
+    - AWSCognitoSync/CognitoSyncClient
+    - AWSiOSSDKv2
+  - AWSCognitoSync/CognitoSync (1.0.3):
+    - AWSiOSSDKv2
+  - AWSCognitoSync/CognitoSyncClient (1.0.3):
+    - AWSCognitoSync/CognitoSync
+    - AWSiOSSDKv2
+  - AWSiOSSDKv2 (2.0.7):
+    - AWSiOSSDKv2/AutoScaling
+    - AWSiOSSDKv2/AWSCore
+    - AWSiOSSDKv2/CloudWatch
+    - AWSiOSSDKv2/DynamoDB
+    - AWSiOSSDKv2/EC2
+    - AWSiOSSDKv2/ElasticLoadBalancing
+    - AWSiOSSDKv2/Kinesis
+    - AWSiOSSDKv2/S3
+    - AWSiOSSDKv2/SES
+    - AWSiOSSDKv2/SimpleDB
+    - AWSiOSSDKv2/SNS
+    - AWSiOSSDKv2/SQS
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/AutoScaling (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/AWSCore (2.0.7):
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/CloudWatch (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/DynamoDB (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/EC2 (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/ElasticLoadBalancing (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/Kinesis (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/S3 (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SES (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SimpleDB (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SNS (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - AWSiOSSDKv2/SQS (2.0.7):
+    - AWSiOSSDKv2/AWSCore
+    - Bolts (~> 1.1.0)
+    - GZIP (~> 1.0.3)
+    - Mantle (~> 1.4.1)
+    - Reachability (~> 3.1.1)
+    - TMCache (~> 1.2.1)
+    - UICKeyChainStore (~> 1.0.5)
+    - XMLDictionary (~> 1.4.0)
+  - Bolts (1.1.2)
+  - GZIP (1.0.3)
+  - Mantle (1.4.1):
+    - Mantle/extobjc
+  - Mantle/extobjc (1.4.1)
+  - Reachability (3.1.1)
+  - SSKeychain (1.2.2)
+  - TMCache (1.2.1)
+  - UICKeyChainStore (1.0.5)
+  - XMLDictionary (1.4)
+
+DEPENDENCIES:
+  - AFAmazonS3Client (from `https://github.com/evoL/AFAmazonS3Client`, branch `2.2`)
+  - AFFAlertView
+  - AFNetworking (~> 2.2)
+  - AWSCognitoSync
+  - AWSiOSSDKv2
+  - SSKeychain
+
+EXTERNAL SOURCES:
+  AFAmazonS3Client:
+    :branch: 2.2
+    :git: https://github.com/evoL/AFAmazonS3Client
+
+SPEC CHECKSUMS:
+  AFAmazonS3Client: daa07c4edcc7819474e94e06cebb95c8e2906c53
+  AFFAlertView: ecbb9ff9a6b95d6fd26ba3eb0bdc820f26eaee15
+  AFNetworking: 0aabc6fae66d6e5d039eeb21c315843c7aae51ab
+  AWSCognitoSync: 626184b0211faf9dbe1c286710490b7a72826c16
+  AWSiOSSDKv2: b27b5a62c1cab8cfbbe973d800dc835aecd8a289
+  Bolts: 2635e8698a630774689441047f3465d78c48d485
+  GZIP: f27c434ffee5e9a9b34f4e9c19e91350fa8bbde1
+  Mantle: 1ca9c0fa84d3d3fc98524e7229f30489b6dd44e5
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+  SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
+  TMCache: ed936c5b4684e4ea15113d46fba8829ed3baadad
+  UICKeyChainStore: 4f9719600cc70025064e26f28f1210bcfc3b0c35
+  XMLDictionary: 735e81b9a043e220b0d24e9d4f16719606f2e0fc
+
+COCOAPODS: 0.33.1

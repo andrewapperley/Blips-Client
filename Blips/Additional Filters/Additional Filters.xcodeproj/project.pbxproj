@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F51152219CF99D800AB60E1 /* AFBlipVideoFilterExtraList.json in Resources */ = {isa = PBXBuildFile; fileRef = 0F51152119CF99D800AB60E1 /* AFBlipVideoFilterExtraList.json */; };
+		0F62DAD719CF9A7700AF4F3D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F62DAD619CF9A7700AF4F3D /* Info.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0F51151719CF99C400AB60E1 /* Additional Video Filters */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = "Additional Video Filters"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F51151B19CF99C400AB60E1 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		0F51152119CF99D800AB60E1 /* AFBlipVideoFilterExtraList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AFBlipVideoFilterExtraList.json; sourceTree = "<group>"; };
+		0F62DAD619CF9A7700AF4F3D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0F51151019CF99C400AB60E1 = {
+			isa = PBXGroup;
+			children = (
+				0F51151919CF99C400AB60E1 /* Additional Filters */,
+				0F51151819CF99C400AB60E1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0F51151819CF99C400AB60E1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0F51151719CF99C400AB60E1 /* Additional Video Filters */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0F51151919CF99C400AB60E1 /* Additional Filters */ = {
+			isa = PBXGroup;
+			children = (
+				0F51151A19CF99C400AB60E1 /* Supporting Files */,
+			);
+			path = "Additional Filters";
+			sourceTree = "<group>";
+		};
+		0F51151A19CF99C400AB60E1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F62DAD619CF9A7700AF4F3D /* Info.plist */,
+				0F51152119CF99D800AB60E1 /* AFBlipVideoFilterExtraList.json */,
+				0F51151B19CF99C400AB60E1 /* ContentInfo.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0F51151619CF99C400AB60E1 /* Additional Filters */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F51151E19CF99C400AB60E1 /* Build configuration list for PBXNativeTarget "Additional Filters" */;
+			buildPhases = (
+				0F51151519CF99C400AB60E1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Additional Filters";
+			productName = "Additional Filters";
+			productReference = 0F51151719CF99C400AB60E1 /* Additional Video Filters */;
+			productType = "com.apple.product-type.in-app-purchase-content";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0F51151119CF99C400AB60E1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "AF-Apps";
+			};
+			buildConfigurationList = 0F51151419CF99C400AB60E1 /* Build configuration list for PBXProject "Additional Filters" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0F51151019CF99C400AB60E1;
+			productRefGroup = 0F51151819CF99C400AB60E1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0F51151619CF99C400AB60E1 /* Additional Filters */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0F51151519CF99C400AB60E1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F62DAD719CF9A7700AF4F3D /* Info.plist in Resources */,
+				0F51152219CF99D800AB60E1 /* AFBlipVideoFilterExtraList.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0F51151C19CF99C400AB60E1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Debug;
+		};
+		0F51151D19CF99C400AB60E1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = Release;
+		};
+		0F51151F19CF99C400AB60E1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Additional Filters/ContentInfo.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "Additional Video Filters";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Debug;
+		};
+		0F51152019CF99C400AB60E1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Additional Filters/ContentInfo.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "Additional Video Filters";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0F51151419CF99C400AB60E1 /* Build configuration list for PBXProject "Additional Filters" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F51151C19CF99C400AB60E1 /* Debug */,
+				0F51151D19CF99C400AB60E1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0F51151E19CF99C400AB60E1 /* Build configuration list for PBXNativeTarget "Additional Filters" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F51151F19CF99C400AB60E1 /* Debug */,
+				0F51152019CF99C400AB60E1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0F51151119CF99C400AB60E1 /* Project object */;
+}

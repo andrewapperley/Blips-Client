@@ -1,0 +1,96 @@
+
+{
+    "filter_list" : [
+                     {
+                     "filter_class" : "GPUImageFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Original_thumb",
+                     "filter_title" : "Original"
+                     },
+                     {
+                     "filter_class" : "AFBlipTiltShiftFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_TiltShift_thumb",
+                     "filter_title" : "Tilt Shift"
+                     },
+                     {
+                     "filter_class" : "AFBlipVignetteFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Vignette_thumb",
+                     "filter_title" : "Vignette"
+                     },
+                     {
+                     "filter_class" : "AFBlipSaturationFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Desaturation_thumb",
+                     "filter_title" : "Desaturation"
+                     },
+                     {
+                     "filter_class" : "AFBlipToneCurveFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_ToneCurve_thumb",
+                     "filter_title" : "Tone Curve"
+                     },
+                     {
+                     "filter_class" : "AFBlipExposureFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_ExposureShift_thumb",
+                     "filter_title" : "Exposure Shift"
+                     },
+                     {
+                     "filter_class" : "AFBlipElegantFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Elegant_thumb",
+                     "filter_title" : "Elegant"
+                     },
+                     {
+                     "filter_class" : "AFBlipRecitFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Recit_thumb",
+                     "filter_title" : "Recit"
+                     },
+                     {
+                     "filter_class" : "AFBlipHexaplarFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Hexaplar_thumb",
+                     "filter_title" : "Hexaplar"
+                     },
+                     {
+                     "filter_class" : "AFBlipUniversitatFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Universitat_thumb",
+                     "filter_title" : "Universitat"
+                     },
+                     {
+                     "filter_class" : "AFBlipNomadFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Nomad_thumb",
+                     "filter_title" : "Nomad"
+                     },
+                     {
+                     "filter_class" : "AFBlipChesterFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Fuellert_thumb",
+                     "filter_title" : "Fuellert"
+                     },
+                     {
+                     "filter_class" : "AFBlipElysianFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Elysian_thumb",
+                     "filter_title" : "Elysian"
+                     },
+                     {
+                     "filter_class" : "AFBlipRealmFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Realm_thumb",
+                     "filter_title" : "Realm"
+                     },
+                     {
+                     "filter_class" : "AFBlipApperleyFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Apperley_thumb",
+                     "filter_title" : "Apperley"
+                     },
+                     {
+                     "filter_class" : "AFBlipBeatnikFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Beatnik_thumb",
+                     "filter_title" : "Beatnik"
+                     },
+                     {
+                     "filter_class" : "AFBlipXForceFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_X-Force_thumb",
+                     "filter_title" : "X-Force"
+                     },
+                     {
+                     "filter_class" : "AFBlipFallFilter",
+                     "filter_image" : "AFBlipAdditionalFilters_Fall_thumb",
+                     "filter_title" : "Fall"
+                     }
+                     
+    ]
+}
